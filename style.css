@@ -557,6 +557,11 @@ nav a:hover {
     color: #7dd3a7 !important;
 }
 
+.status-proceso{
+
+color: #d6e40c !important;
+}
+
 .project-external-link {
     display: inline-block;
 }
